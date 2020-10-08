@@ -1,0 +1,1 @@
+export const INFO_STUDENT = 'INFO_STUDENT';
